@@ -1,1 +1,1 @@
-ECHO bekapcsolva
+aaECHO bekapcsolva
